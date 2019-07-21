@@ -1,0 +1,15 @@
+Sophie,10,0,60,1
+Cody,8,0,40,3
+Sam,2,0,120,5
+Henry,3,0,35,2
+Izzy,1,0,38,6
+Lucas,6,0,20,1
+Karl,9,0,40,3
+Matt,4,0,120,5
+Eric,6,0,150,3
+Palak,3,0,70,2
+Caitlin,5,0,60,3
+Bekah,7,0,45,4
+Eliza,4,0,68,3
+Olivia,8,0,72,5
+Spencer,9,0,125,1
