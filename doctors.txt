@@ -1,6 +1,0 @@
-Silverman,1
-Machen,2
-Towstik,4
-Anoff,3
-Patel,6
-Murray,5
