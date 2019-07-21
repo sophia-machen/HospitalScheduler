@@ -1,5 +1,5 @@
 # HospitalScheduler
-Backend files for a ER schedule queue software which gives patients a unique priority value, pairs doctors and patients, and runs autonomously using the time.h library
+Backend files for a ER schedule queue software which gives patients a unique priority value, pairs doctors and patients, and runs semi-autonomously using the time.h library
 
 ## Structs
 Three structs are used to define the three different states a person could be in: Doctor (Doctor providing medical care), Patient (person waiting to be treated), and Intake (person who is currently being treated)  
